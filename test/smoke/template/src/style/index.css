@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+#root{
+    color:#fff;
+    display: flex;
+}
+#root{
+    width:100%;
+}

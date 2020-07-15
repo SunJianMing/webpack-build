@@ -1,0 +1,10 @@
+body{
+    background-color: #666;
+}
+#root{
+    color:#fff;
+    display: flex;
+}
+#root{
+    width:100%;
+}
